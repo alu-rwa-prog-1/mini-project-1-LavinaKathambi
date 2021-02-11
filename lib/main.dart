@@ -31,7 +31,6 @@ class _HomePageState extends State<HomePage> {
           style: TextStyle(
               fontWeight: FontWeight.bold, fontSize: 30, color: Colors.black),
         ),
-
         // adding my icons to my appbar
         actions: [
           // search icon

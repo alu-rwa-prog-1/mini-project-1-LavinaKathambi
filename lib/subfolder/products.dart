@@ -11,12 +11,12 @@ class _ProductsState extends State<Products> {
     // List of Products
     {
       "name": "Wedding Cake",
-      "picture": "pics/images/cake1.jpg",
+      "picture": "pics/images/cake2.png",
       "price": 20,
     },
     {
       "name": "Dress",
-      "picture": "pics/images/dress3.jpg",
+      "picture": "pics/images/dress4.jpg",
       "price": 20,
     },
     {
@@ -31,12 +31,12 @@ class _ProductsState extends State<Products> {
     },
     {
       "name": "Car",
-      "picture": "pics/images/car.jpg",
+      "picture": "pics/images/car1.jpg",
       "price": 20,
     },
     {
       "name": "Catering",
-      "picture": "pics/images/food.jpg",
+      "picture": "pics/images/food1.jpg",
       "price": 20,
     },
     {
